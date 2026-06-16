@@ -184,7 +184,7 @@ Aspiring Python Full Stack Developer with a strong foundation in Python, Django,
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dastagiri01357&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dastagiri-Potuganti&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
