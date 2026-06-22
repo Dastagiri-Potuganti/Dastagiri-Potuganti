@@ -167,12 +167,12 @@ Aspiring Python Full Stack Developer with a strong foundation in Python, Django,
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dastagiri01357&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dastagiri-Potuganti&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dastagiri01357&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dastagiri01357&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Dastagiri-Potuganti&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
