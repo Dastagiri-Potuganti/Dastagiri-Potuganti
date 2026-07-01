@@ -79,6 +79,22 @@ Aspiring Python Full Stack Developer with a strong foundation in Python, Django,
 
 ## 📂 Featured Projects
 
+### 👨‍💼 Employee Management System
+
+**Tech Stack:** Django, Python, MySQL, HTML, CSS, Bootstrap
+
+🔹 Developed a role-based Employee Management System with separate Admin and Employee modules.
+
+🔹 Managed employee records, attendance, leave requests, and department information.
+
+🔹 Designed a relational database using Django ORM and MySQL.
+
+🔹 Implemented CRUD operations with optimized database relationships and validations.
+
+🔹 Built a responsive user interface using HTML, CSS, and Bootstrap.
+
+---
+
 ### 🏪 Inventory Management System
 
 **Tech Stack:** Python, MySQL
