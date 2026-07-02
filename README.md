@@ -176,6 +176,11 @@ Aspiring Python Full Stack Developer with a strong foundation in Python, Django,
 ✓ Database Design & Optimization
 ✓ Generative AI
 ✓ Full Stack Development
+✓ React JS
+✓ Node JS
+✓ Numpy
+✓ Pandas
+✓ Machine Learning
 ```
 
 ---
